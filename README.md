@@ -1,7 +1,5 @@
-<p align="center"><img src="https://files.catbox.moe/3yd5p6.jpg" width="100%" alt="MATRIX-MD"></p>
-
 <p align="center">
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=WELCOME+TO+MATRIX-MD;THE+MOST+SECURED+AND+SMARTEST+WHATSAPP+BOT"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=WELCOME+TO+MATRIX-MD;THE+MOST+SECURED+AND+SMARTEST+WHATSAPP+BOT" alt="Typing SVG"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=WELCOME+TO+MATRIX-MD;THE+MOST+SECURED+AND+SMARTEST+WHATSAPP+BOT" alt="MATRIX-MD">
 </p>
 
 <p align="center">
@@ -14,4 +12,10 @@
 > ### 💚 Follow Our Official WhatsApp Channel: https://whatsapp.com/channel/0029Vb8xywpCcW4zkmRldm2L
 
 <br/>
-<a href
+<a href="https://github.com/MATRIX-MD-OFFICIAL?tab=followers"><img src="https://img.shields.io/github/followers/MATRIX-MD-OFFICIAL?label=Followers&style=flat&color=00FF00"></a>
+<a href="https://github.com/MATRIX-MD-OFFICIAL/SUBZERO-MD/stargazers"><img src="https://img.shields.io/github/stars/MATRIX-MD-OFFICIAL/SUBZERO-MD?label=Stars&style=flat&color=yellow"></a>
+<a href="https://github.com/MATRIX-MD-OFFICIAL/SUBZERO-MD/network/members"><img src="https://img.shields.io/github/forks/MATRIX-MD-OFFICIAL/SUBZERO-MD?label=Forks&style=flat&color=orange"></a>
+<a href="https://github.com/MATRIX-MD-OFFICIAL/SUBZERO-MD/watchers"><img src="https://img.shields.io/github/watchers/MATRIX-MD-OFFICIAL/SUBZERO-MD?label=Watchers&style=flat&color=blue"></a>
+<img src="https://img.shields.io/github/repo-size/MATRIX-MD-OFFICIAL/SUBZERO-MD?label=Repo%20Size&style=flat&color=purple">
+<img src="https://img.shields.io/badge/Release-v1.0.0--matrix-blue?style=flat">
+</p>
