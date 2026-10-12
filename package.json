@@ -1,9 +1,9 @@
 {
-  "name": "subzero-md",
+  "name": "matrix-md-official",
   "version": "7.0.0",
   "type": "module",
-  "description": "SUBZERO-MD V7 — Advanced WhatsApp Bot by Mr Frank OFC 🇿🇼",
-  "author": "Mr Frank OFC (Darrell Mucheri)",
+  "description": "MATRIX-MD-OFFICIAL V7 - Advanced WhatsApp Bot By MATRIX",
+  "author": "MATRIX OFFICIAL",
   "license": "MIT",
   "main": "index.js",
 
@@ -16,15 +16,15 @@
 
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrfrankofcc/subzero-md.git"
+    "url": "git+https://github.com/MATRIX-MD-OFFICIAL/MATRIX-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/mrfrankofcc/subzero-md/issues"
+    "url": "https://github.com/MATRIX-MD-OFFICIAL/MATRIX-MD/issues"
   },
-  "homepage": "https://github.com/mrfrankofcc/subzero-md#readme",
+  "homepage": "https://github.com/MATRIX-MD-OFFICIAL/MATRIX-MD",
   "funding": {
     "type": "individual",
-    "url": "https://github.com/sponsors/mrfr8nk"
+    "url": "https://github.com/MATRIX-MD-OFFICIAL/MATRIX-MD"
   },
 
   "engines": {
@@ -32,14 +32,14 @@
   },
 
   "keywords": [
-    "subzero-md",
+    "matrix-md",
     "whatsapp-bot",
     "baileys",
     "multi-device",
     "whatsapp-automation",
     "nodejs",
-    "mr-frank-ofc",
-    "subzero",
+    "matrix-md-official",
+    "matrix",
     "sticker-bot"
   ],
 
