@@ -1,24 +1,35 @@
-<!--MATRIX-MD V7 FINAL || DO NOT COPY MY CODES -->
+<p align="center">
+  <a href="https://github.com/MATRIX-MD-OFFICIAL/SUBZERO-MD">
+    <img src="https://files.catbox.moe/e1x2r2.jpg" width="400" height="400" alt="MATRIX-MD">
+  </a>
+</p>
 
-<div align="center">
+<h1 align="center">MATRIX-MD WHATSAPP BOT</h1>
 
-<img src="https://files.catbox.moe/ccdqxh.png" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=00FF00&size=30&lines=WELCOME+TO+MATRIX-MD;THE+SMARTEST+BOT+ON+WHATSAPP;CREATED+BY+MATRIX-MD-OFFICIAL)](https://git.io/typing-svg)
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GITHUB-MATRIX--MD--OFFICIAL-00FF00?style=for-the-badge&logo=github)](https://github.com/MATRIX-MD-OFFICIAL)
-[![YouTube](https://img.shields.io/badge/YOUTUBE-MATRIX--MD-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@matrix-md)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-2348115002660-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/2348115002660)
-[[MATRIX-MD Channel](https://img.shields.io/badge/JOIN-MATRIX--MD--CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb8xywpCcW4zkmRldm2L)
-<br/>
-> ### 💚 Follow Our Official WhatsApp Channel: https://whatsapp.com/channel/0029Vb8xywpCcW4zkmRldm2L
-![Followers](https://img.shields.io/github/followers/MATRIX-MD-OFFICIAL?label=Followers&style=flat&color=00FF00)
-![Stars](https://img.shields.io/github/stars/MATRIX-MD-OFFICIAL/SUBZERO-MD?label=Stars&style=flat&color=yellow)
-![Forks](https://img.shields.io/github/forks/MATRIX-MD-OFFICIAL/SUBZERO-MD?label=Forks&style=flat&color=blue)
-![Watchers](https://img.shields.io/github/watchers/MATRIX-MD-OFFICIAL/SUBZERO-MD?label=Watchers&style=flat&color=green)
-![Repo Size](https://img.shields.io/github/repo-size/MATRIX-MD-OFFICIAL/SUBZERO-MD?label=Repo%20Size&style=flat&color=orange)
-![Release](https://img.shields.io/badge/Release-v7.0.0--matrix-blue?style
+<p align="center">
+  <a href="https://github.com/MATRIX-MD-OFFICIAL/SUBZERO-MD">
+    <img src="https://img.shields.io/badge/GITHUB-MATRIX--MD--OFFICIAL-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://youtube.com/@matrix-md">
+    <img src="https://img.shields.io/badge/YOUTUBE-MATRIX--MD-FF0000?style=for-the-badge&logo=youtube" alt="YouTube">
+  </a>
+  <a href="https://wa.me/2348115002660">
+    <img src="https://img.shields.io/badge/WHATSAPP-2348115002660-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
+  </a>
+  <a href="https://whatsapp.com/channel/0029Vb8xywpCcW4zkmRldm2L">
+    <img src="https://img.shields.io/badge/JOIN-MATRIX--MD--CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="MATRIX-MD Channel">
+  </a>
+  <br/>
+  <a href="https://github.com/MATRIX-MD-OFFICIAL?tab=followers">
+    <img src="https://img.shields.io/github/followers/MATRIX-MD-OFFICIAL?label=Followers&style=flat&color=00FF00" alt="Followers">
+  </a>
+  <a href="https://github.com/MATRIX-MD-OFFICIAL/SUBZERO-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/MATRIX-MD-OFFICIAL/SUBZERO-MD?label=Stars&style=flat&color=yellow" alt="Stars">
+  </a>
+  <a href="https://github.com/MATRIX-MD-OFFICIAL/SUBZERO-MD/network/members">
+    <img src="https://img.shields.io/github/forks/MATRIX-MD-OFFICIAL/SUBZERO-MD?label=Forks&style=flat&color=orange" alt="Forks">
+  </a>
+  <a href="https://github.com/MATRIX-MD-OFFICIAL/SUBZERO-MD/watchers">
+    <img src="https://img.shields.io/github/watchers/MATRIX-MD-OFFICIAL/SUBZERO-MD?label=Watchers&style=flat&color=blue" alt="Watchers">
+  </a>
+  <img src="https://img.shields.io/github/repo-size/MATRIX-MD-OFFICIAL/SUBZERO-MD?label=Repo%20Size&style
