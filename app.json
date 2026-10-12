@@ -1,22 +1,53 @@
 {
   "name": "MATRIX-MD",
-  "description": "MATRIX-MD - The Most Secured And Smartest WhatsApp Bot. A high-performance, multi-device WhatsApp bot.",
-  "logo": "https://files.catbox.moe/3yd5p6.jpg",
-  "keywords": ["MATRIX-MD", "whatsapp bot", "matrix bot", "md bot", "multi-device"],
+  "description": "MATRIX-MD - The Most Secured And Smartest WhatsApp Bot. A high-performance, multi-device WhatsApp bot with advanced features.",
+  "keywords": [
+    "MATRIX-MD",
+    "whatsapp",
+    "bot",
+    "whatsapp-bot",
+    "multi-device",
+    "matrix-md"
+  ],
   "repository": "https://github.com/MATRIX-MD-OFFICIAL/SUBZERO-MD",
   "website": "https://github.com/MATRIX-MD-OFFICIAL/SUBZERO-MD",
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
-      "description": "Secure authentication session string. Get it from https://subzero-v2-sessions.onrender.com",
+      "description": "Your SESSION_ID - Get it from https://subzero-v2-sessions.onrender.com",
       "required": true,
       "value": ""
     },
     "OWNER_NUMBER": {
-      "description": "Primary administrator WhatsApp number with country code",
+      "description": "Your WhatsApp Number with country code (e.g 2348115002660)",
       "required": true,
       "value": "2348115002660"
     },
-    "DATABASE_URL": {
-      "description": "Database URL (leave empty
+    "BOT_NAME": {
+      "description": "Bot Name",
+      "required": false,
+      "value": "MATRIX-MD"
+    },
+    "OWNER_NAME": {
+      "description": "Owner Name",
+      "required": false,
+      "value": "MATRIX-MD-OFFICIAL"
+    },
+    "PREFIX": {
+      "description": "Bot Prefix",
+      "required": false,
+      "value": "."
+    },
+    "AUTO_STATUS_VIEW": {
+      "description": "Auto view status (true/false)",
+      "required": false,
+      "value": "false"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
