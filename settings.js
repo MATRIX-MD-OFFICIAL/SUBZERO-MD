@@ -1,36 +1,40 @@
 import 'dotenv/config';
 
 const settings = {
-/* ================= DATABASE ================= */
+  /* ============== DATABASE ============== */
+  // Set ONE database URL here - the bot auto-detects type
+  // mongodb:// or mongodb+srv://  -> MongoDB
+  // postgres:// or postgresql:// -> PostgreSQL
+  // mysql:// or mysql2://        -> MySQL
+  // Leave empty to use local JSON storage
+  DATABASE_URL: process.env.DATABASE_URL || '',
 
-// Set ONE database URL here — the bot auto-detects the type from the prefix:
-//   mongodb:// or mongodb+srv://  → MongoDB
-//   postgres:// or postgresql://  → PostgreSQL
-//   mysql:// or mysql2://         → MySQL
-// Leave empty to use local JSON storage (no DB required).
-DATABASE_URL: process.env.DATABASE_URL || '',
-    
-/* ================= BOT IDENTITY ================= */
+  /* ============== BOT IDENTITY ============== */
+  botName: process.env.BOT_NAME || 'MATRIX-MD',
+  botOwner: process.env.BOT_OWNER || 'MATRIX-MD-OFFICIAL',
+  ownerNumber: process.env.OWNER_NUMBER || '2348115002660',
+  ownerName: process.env.OWNER_NAME || 'MATRIX-MD-OFFICIAL',
+  author: process.env.AUTHOR || 'MATRIX-MD-OFFICIAL',
+  packname: process.env.PACKNAME || 'MATRIX-MD',
+  description: process.env.DESCRIPTION || 'MATRIX-MD - High Performance WhatsApp Bot',
 
-botName: process.env.BOT_NAME || 'MATRIX-MD',
-botOwner: process.env.BOT_OWNER || 'MATRIX-MD-OFFICIAL',
-ownerNumber: process.env.OWNER_NUMBER || '2348115002660',
-author: process.env.AUTHOR || 'MATRIX-MD-OFFICIAL',
-packname: process.env.PACKNAME || 'MATRIX-MD',
-description: process.env.DESCRIPTION || 'Multi-device WhatsApp bot Made by MATRIX-MD-OFFICIAL',
+  /* ============== BOT SETTINGS ============== */
+  prefix: process.env.PREFIXES || process.env.PREFIX || '.',
+  mode: process.env.MODE || 'public',
+  timezone: process.env.TIMEZONE || 'Africa/Lagos',
+  sessionName: process.env.SESSION_ID || '',
 
-/* ================= SESSION ================= */
+  /* ============== FEATURES ============== */
+  welcome: process.env.WELCOME || 'false',
+  antilink: process.env.ANTI_LINK || 'false',
+  antibadword: process.env.ANTI_BAD_WORD || 'false',
+  autoread: process.env.AUTO_READ || 'false',
+  autostatusview: process.env.AUTO_STATUS_VIEW || 'false',
+  autolike: process.env.AUTO_LIKE || 'false',
+  autoreact: process.env.AUTO_REACT || 'false',
 
-sessionId: process.env.SESSION_ID || '',
-pairingNumber: process.env.PAIRING_NUMBER || '',
-CDN: 'https://media.mrfrankofc.gleeze.com'
-
+  /* ============== API KEYS ============== */
+  removeBgKey: process.env.REMOVE_BG_KEY || '',
 };
-
-// Sync DATABASE_URL back to process.env so all modules pick it up
-// (works whether the value was in .env or hardcoded above)
-if (settings.DATABASE_URL && !process.env.DATABASE_URL) {
-    process.env.DATABASE_URL = settings.DATABASE_URL;
-}
 
 export default settings;
