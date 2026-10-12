@@ -1,93 +1,22 @@
 {
   "name": "MATRIX-MD",
-  "description": "A high-performance, multi-device WhatsApp bot - MATRIX-MD",
-  "logo": "https://files.catbox.moe/ccdqxh.png",
-  "website": "https://sessions.subzero.gleeze.com",
-  "keywords": ["MATRIX-MD", "whatsapp bot", "matrix bot", "whatsapp md", "bot"],
-  "repository": "https://github.com/mrfr8nk/SUBZERO-MD",
+  "description": "MATRIX-MD - The Most Secured And Smartest WhatsApp Bot. A high-performance, multi-device WhatsApp bot.",
+  "logo": "https://files.catbox.moe/3yd5p6.jpg",
+  "keywords": ["MATRIX-MD", "whatsapp bot", "matrix bot", "md bot", "multi-device"],
+  "repository": "https://github.com/MATRIX-MD-OFFICIAL/SUBZERO-MD",
+  "website": "https://github.com/MATRIX-MD-OFFICIAL/SUBZERO-MD",
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
-      "description": "Secure authentication session string",
+      "description": "Secure authentication session string. Get it from https://subzero-v2-sessions.onrender.com",
       "required": true,
       "value": ""
     },
     "OWNER_NUMBER": {
-      "description": "Primary administrator WhatsApp number",
+      "description": "Primary administrator WhatsApp number with country code",
       "required": true,
       "value": "2348115002660"
     },
     "DATABASE_URL": {
-      "description": "MongoDB connection URI",
-      "required": false,
-      "value": ""
-    },
-    "PREFIXES": {
-      "description": "Command trigger prefix",
-      "required": false,
-      "value": "."
-    },
-    "BOT_NAME": {
-      "description": "Display name of the bot",
-      "required": false,
-      "value": "MATRIX-MD"
-    },
-    "PACKNAME": {
-      "description": "Default sticker pack name",
-      "required": false,
-      "value": "MATRIX-MD"
-    },
-    "MODE": {
-      "description": "Operational mode public or private",
-      "required": false,
-      "value": "public"
-    },
-    "TIMEZONE": {
-      "description": "System timezone",
-      "required": false,
-      "value": "Africa/Harare"
-    },
-    "REMOVE_BG_KEY": {
-      "description": "API key from remove.bg service",
-      "required": false,
-      "value": ""
-    },
-    "WELCOME": {
-      "description": "Enable or disable welcome message",
-      "required": false,
-      "value": "false"
-    },
-    "ANTI_LINK": {
-      "description": "Enable anti-link feature",
-      "required": false,
-      "value": "false"
-    },
-    "ANTI_BAD_WORD": {
-      "description": "Enable anti bad word feature",
-      "required": false,
-      "value": "false"
-    },
-    "AUTO_READ": {
-      "description": "Auto read messages",
-      "required": false,
-      "value": "false"
-    },
-    "AUTO_STATUS_VIEW": {
-      "description": "Auto view status",
-      "required": false,
-      "value": "false"
-    }
-  },
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    },
-    {
-      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
-    },
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    }
-  ]
-}
+      "description": "Database URL (leave empty
